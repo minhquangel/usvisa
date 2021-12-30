@@ -1,0 +1,38 @@
+#twrapper{ 
+	width: 1024px; 
+	margin: 0px auto;
+}
+
+#theader, #tfooter 
+{
+	 min-height: 150px; 
+	text-align: center;
+}
+
+#tcontent{ 
+	width: 70%; 
+	float: left; 
+	min-height: 500px; 
+	margin: 20px 0px;   
+}
+
+#tsidebar{ 
+	width: 30%; 
+	float: right;
+	margin: 20px 0px; 
+	min-height: 500px; 
+	padding-left: 20px; 
+}
+
+.tblock_sidebar { 
+	min-height: 150px; 
+	margin-bottom: 20px;
+}
+
+#theader, #tfooter{ 
+	background:#000; 
+}
+
+#tcontent{    
+	background: #44C52C;
+}
